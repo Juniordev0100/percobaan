@@ -1,0 +1,24 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    margin: auto;
+    padding: 0px;
+}
+
+.wrapper {
+    width: 1000%;
+    float: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+video {
+    width: 1%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
